@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto ;
+    margin-top: auto;
+    background-color: rgb(147, 173, 188);
+    height: 100vh;
+    
+}
+
+.clock{
+    border-radius: 5px;
+    height: 30px;
+    align-items: center;
+    padding: 25px;
+    font-size: 30px;
+    width: 150px;
+    color: rgb(1, 19, 27);
+    background-color: rgb(29, 111, 121);
+}
